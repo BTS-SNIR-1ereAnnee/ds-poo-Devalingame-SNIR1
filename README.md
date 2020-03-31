@@ -5,6 +5,12 @@ Pour chaque question vous décommenterez la partie du code concernée dans Rectang
 
 **CHAQUE QUESTION FERA L'OBJET D'UN COMMIT**
 
+## Question 0
+1. Sans modifier les sources, compilez le programme.
+2. Vérifiez que le programme affiche `******DS POO******`
+2. Recopiez ici la commande permetant la compilation du projet
+3. Commitez le README.md avec le message "Question 0"
+
 ## Question 1
 1. Implémentez le constructeur par défaut.
 2. Testez
