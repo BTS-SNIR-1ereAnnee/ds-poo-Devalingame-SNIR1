@@ -3,6 +3,25 @@
 Grace aux sources fournies (header), nous allons écrire l'implentation de toutes les fonctions spécifiées dans celui-ci.
 Pour chaque question vous décommenterez la partie du code concernée dans Rectangle.h et dans main.cpp .
 
+L'affichage final sera :
+```
+******DS POO******
+1er rectangle : 
+ largeur: 5.5
+ hauteur: 11.2
+
+2e rectangle : 
+ largeur: 5
+ hauteur: 6
+
+2e rectangle modifié : 
+ largeur: 10.3
+ hauteur: 12.4
+
+ surface 2e rectangle modifié :  127.72
+```
+
+
 **CHAQUE QUESTION FERA L'OBJET D'UN COMMIT**
 
 ## Question 0
