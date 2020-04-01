@@ -28,6 +28,7 @@ L'affichage final sera :
 1. Sans modifier les sources, compilez le programme.
 2. Vérifiez que le programme affiche `******DS POO******`
 2. Recopiez ici la commande permetant la compilation du projet
+   g++ main.cpp Rectangle.cpp -o prog
 3. Commitez le README.md avec le message "Question 0"
 
 ## Question 1
